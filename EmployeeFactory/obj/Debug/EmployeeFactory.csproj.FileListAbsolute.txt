@@ -1,0 +1,6 @@
+c:\users\luke\documents\visual studio 2012\Projects\EmployeeFactory\EmployeeFactory\bin\Debug\EmployeeFactory.exe.config
+c:\users\luke\documents\visual studio 2012\Projects\EmployeeFactory\EmployeeFactory\bin\Debug\EmployeeFactory.exe
+c:\users\luke\documents\visual studio 2012\Projects\EmployeeFactory\EmployeeFactory\bin\Debug\EmployeeFactory.pdb
+c:\users\luke\documents\visual studio 2012\Projects\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.exe
+c:\users\luke\documents\visual studio 2012\Projects\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.pdb
+C:\Users\Luke\documents\visual studio 2012\Projects\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.csprojResolveAssemblyReference.cache
